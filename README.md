@@ -12,5 +12,6 @@ Bu proje, kullanıcı dostu bir web arayüzü oluşturmak için Bootstrap ve CSS
   
 
 
-![tanıtım](emartech-building(2).gif)
+![tanıtım]emartech-building (2).gif
+)
 
